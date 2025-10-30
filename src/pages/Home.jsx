@@ -62,7 +62,7 @@ const BirthdayCard = () => {
 
   // Card data with image-specific messages
   const cardData = {
-    name: "Dione Chancelline",
+    name: "Joy",
     images: [
       { 
         src: D1, 
