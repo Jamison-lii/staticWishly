@@ -183,6 +183,8 @@ const BirthdayCard = () => {
       {/* Footer */}
       <div className="text-center mt-8 text-gray-500 text-sm">
         <p>Created with love using Birthday Card Generator</p>
+    
+ <p>Made by Jamison Lii ( on tiktok, IG, Twitter)</p>
       </div>
     </div>
   );
