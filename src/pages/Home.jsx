@@ -66,7 +66,7 @@ const BirthdayCard = () => {
     images: [
       { 
         src: D1, 
-        message: "Yoo whatsup? 😂, So its your birthday today, I'm sure your getting alot of wishes and gifts, I dont have gift but i can write code , check out the scripture below",
+        message: "Lorem Ipsum dolor sit amet , opium dallas tamid Yoo whatsup? 😂, So its your birthday today, I'm sure your getting alot of wishes and gifts, I dont have gift but i can write code , check out the scripture below",
         caption: "📖 Jeremiah 29:11 : For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
       },
       { 
@@ -207,8 +207,8 @@ const BirthdayCard = () => {
           {/* Message Section */}
           <div className="w-full md:w-1/2 p-6 md:p-8 flex flex-col justify-center">
             <div className="text-center mb-6">
-              <h1 className="text-4xl font-bold text-pink-600 mb-2">Happy Birthday</h1>
-              <h2 className="text-3xl font-semibold text-gray-800">{name}!</h2>
+              <h1 className="text-4xl font-bold text-pink-600 mb-2">Happy Val's day</h1>
+              <h2 className="text-3xl font-semibold text-gray-800">{name}</h2> 
             </div>
             
             <div className="bg-gradient-to-br from-pink-50 to-purple-50 rounded-xl p-6 mb-6 transition-all duration-300">
