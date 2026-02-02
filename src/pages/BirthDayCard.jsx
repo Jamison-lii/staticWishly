@@ -138,8 +138,8 @@ const BirthdayCard = () => {
           {/* Message Section */}
           <div className="w-full md:w-1/2 p-8 flex flex-col justify-center">
             <div className="text-center mb-8">
-              <h1 className="text-4xl font-bold text-pink-600 mb-2">Happy Birthday</h1>
-              <h2 className="text-3xl font-semibold text-gray-800">{name}!</h2>
+              <h1 className="text-4xl font-bold text-pink-600 mb-2">Happy Val's day</h1>
+              <h2 className="text-3xl font-semibold text-gray-800">{name}</h2>
             </div>
             
             <div className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-lg p-6 mb-8">
